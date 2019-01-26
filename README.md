@@ -8,5 +8,5 @@ computational linguistics (LIN/CSE 467/567) at UB (Spring 2019)
 | |  |  | [ [syllabus](https://www.overleaf.com/read/bbydmnwkznyj) ]|
 |Lecture | Jan 28 | **Introduction** | [ [slides](https://www.overleaf.com/read/pntxnvrkknxk) ]|
 | |  | **Preprocessing** | [ [slides](https://www.overleaf.com/read/pntxnvrkknxk) ]|
-| |  | tokenization | Suggested Readings:  - Item 2 - Item 2b|
+| |  | tokenization | Suggested Readings:  <ul><li>item1</li><li>item2</li></ul>|
 

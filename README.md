@@ -25,7 +25,9 @@ computational linguistics (LIN/CSE 467/567) at UB (Spring 2019), based on [*Intr
 |lecture |  | morphological paradigms | |
 ||  | lab session | [notes] |
 ||  | assignment #2 released	 | [assignment #2] |
-
-
-
+| ------ | ------ | ------ | ------  |
 |app | Feb 1 | chatbot | [[slides](https://www.overleaf.com/read/nchsympggypq)]|
+| ------ | ------ | ------ | ------  |
+
+
+

@@ -1,6 +1,13 @@
 # computational-linguistics-ub
 computational linguistics (LIN/CSE 467/567) at UB (Spring 2019)
 
+1. preprocessing
+1. morphology
+1. morphosyntax
+1. syntax
+1. cross-language
+1. language model
+
 
 ## Schedule and Syllabus 
 |Event	| Date |	Description	 |Course Materials |

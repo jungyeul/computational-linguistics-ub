@@ -13,7 +13,7 @@ computational linguistics (LIN/CSE 467/567) at UB (Spring 2019), based on [*Intr
 ## Schedule and Syllabus 
 |Event	| Date |	Description	 |Course Materials |
 | ------ | ------ | ------ | ------  |
-| |  |  | [[syllabus](https://www.overleaf.com/read/bbydmnwkznyj)] |
+| |  |  | [[syllabus](https://www.overleaf.com/read/bkpszpcndwrf)] |
 |lecture | Jan 28 | **introduction** | [[slides](https://www.overleaf.com/read/kzsdqspjvpzk)]|
 | |Feb 1- | **preprocessing** | [[slides](https://www.overleaf.com/read/rhsrjbqhcfpt)] |
 |lecture |  | tokenization | Suggested Readings:  <ul><li>[[Moses - Baseline system, corpus preparation](http://www.statmt.org/moses/?n=Moses.Baseline)]</li><li>[[Tokenization: Returning to a Long Solved Problem](http://aclweb.org/anthology/P/P12/P12-2074.pdf)]</li></ul> |

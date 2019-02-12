@@ -21,7 +21,7 @@ computational linguistics (LIN/CSE 467/567) at UB (Spring 2019), based on [*Intr
 ||Feb 8  | lab session | [[notes](https://www.overleaf.com/read/qtrdnthdmpdw)] [[input-tokenization.txt](https://buffalo.box.com/s/wtpbmqqag1p12qv2516agfdgph529giv)][[input-sbd.txt](https://buffalo.box.com/s/xly0wc26bmtmx692qi895ld227ye1ksr)] |
 || Feb 11  | assignment #1 released	 | [[assignment #1](https://www.overleaf.com/read/vfcddpxrtpmg)] (due Feb 18) |
 | | Feb 11- | **morphology** | [[slides](https://www.overleaf.com/read/sjjtdtdxrjhn)] |
-|lecture |  | morphological segmentation | Suggested Readings:  <ul><li>[[Learning a Translation Lexicon from Monolingual Corpora](http://www.aclweb.org/anthology/W02-0902.pdf)]</li>  <li>[[A Joint Model of Orthography and Morphological Segmentation](http://www.aclweb.org/anthology/N16-1080)]</li>  <li>[[Unsupervised Discovery of Morphemes](http://aclweb.org/anthology/W02-0603)]</li></ul> |
+|lecture |  | morphological segmentation | Suggested Readings:  <ul><li>[[Empirical Methods for Compound Splitting](http://www.aclweb.org/anthology/E03-1076)]</li>  <li>[[A Joint Model of Orthography and Morphological Segmentation](http://www.aclweb.org/anthology/N16-1080)]</li>  <li>[[Unsupervised Discovery of Morphemes](http://aclweb.org/anthology/W02-0603)]</li></ul> |
 |lecture |  | morphological paradigms | |
 ||  | lab session | [notes] |
 ||  | assignment #2 released	 | [assignment #2] |

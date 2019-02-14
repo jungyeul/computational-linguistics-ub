@@ -25,6 +25,20 @@ computational linguistics (LIN/CSE 467/567) at UB (Spring 2019), based on [*Intr
 |lecture |  | morphological paradigms | |
 ||  | lab session | [notes] |
 ||  | assignment #2 released	 | [assignment #2] |
+| |  | **morphosyntax** | [slides] |
+||  | lab session | [notes] |
+||  | assignment #3 released	 | [assignment #3] |
+||  | mid-term	 |  |
+| |  | **syntax** | [slides] |
+||  | lab session | [notes] |
+||  | assignment #4 released	 | [assignment #4] |
+| |  | **cross-language** | [slides] |
+||  | lab session | [notes] |
+||  | assignment #5 released	 | [assignment #5] |
+| |  | **language model** | [slides] |
+||  | lab session | [notes] |
+||  | assignment #6 released	 | [assignment #6] |
+||  | final-term	 |  |
 | ------ | ------ | ------ | ------  |
 | |  | **projects** | [[slides](https://www.overleaf.com/read/mmgtnhrxvfyq)] |
 | | Feb 1 | chatbot | p.2-3|

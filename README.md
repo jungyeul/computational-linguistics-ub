@@ -26,7 +26,10 @@ computational linguistics (LIN/CSE 467/567) at UB (Spring 2019), based on [*Intr
 ||  | lab session | [notes] |
 ||  | assignment #2 released	 | [assignment #2] |
 | ------ | ------ | ------ | ------  |
-|project | Feb 1 | chatbot | [[slides](https://www.overleaf.com/read/mmgtnhrxvfyq)]|
+| |  | **projects** | [[slides](https://www.overleaf.com/read/mmgtnhrxvfyq)] |
+| | Feb 1 | chatbot | p.2-3|
+| | Feb 11 | GEC | p.4|
+| | Feb 15 | SLT@WMT | p.5|
 
 
 

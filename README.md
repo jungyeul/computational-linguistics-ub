@@ -46,6 +46,7 @@ computational linguistics (LIN/CSE 467/567) at UB (Spring 2019), based on [*Intr
 | | Feb 15 | *SLT@WMT* | p.5|
 | | Feb 15 | *Gender Bias for NLP* | p.6|
 | | Feb 18 | *DMT@VarDial* | p.7|
+| | Feb 18 | *Hindi-English Code-Switching* | p.8|
 
 
 

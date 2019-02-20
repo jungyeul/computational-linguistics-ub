@@ -23,7 +23,7 @@ computational linguistics (LIN/CSE 467/567) at UB (Spring 2019), based on [*Intr
 | | Feb 11- | **morphology** | [[slides 1](https://www.overleaf.com/read/sjjtdtdxrjhn)] [slides 2] |
 |lecture |  | *morphological segmentation* | Suggested Readings:  <ul><li>[[Empirical Methods for Compound Splitting](http://www.aclweb.org/anthology/E03-1076)]</li>  <li>[[A Joint Model of Orthography and Morphological Segmentation](http://www.aclweb.org/anthology/N16-1080)]</li>  <li>[[Unsupervised Discovery of Morphemes](http://aclweb.org/anthology/W02-0603)]</li></ul> |
 |lecture |  | *morphological paradigms* | |
-||  | lab session | [notes] |
+||  | lab session | [[notes](https://www.overleaf.com/read/qtrdnthdmpdw)] |
 ||  | assignment #2 released	 | [assignment #2] |
 | |  | **morphosyntax** | [slides] |
 ||  | lab session | [notes] |

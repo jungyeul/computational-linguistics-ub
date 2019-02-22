@@ -1,6 +1,6 @@
 # computational-linguistics-ub
 computational linguistics (LIN/CSE 467/567) at UB (Spring 2019), based on [*Introductory Computational Linguistics 
--- A Practical Aspect*](https://buffalo.box.com/s/mmr1wjqy3te5fbg8c4q0r9gyymrhxj0n). 
+-- A Practical Aspect*](https://buffalo.box.com/s/1t6hbq77c1yjabp1yo4qu1ovx4tiy2a6). 
 
 1. preprocessing
 1. morphology

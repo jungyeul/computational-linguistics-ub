@@ -22,10 +22,11 @@ computational linguistics (LIN/CSE 467/567) at UB (Spring 2019), based on [*Intr
 || Feb 11  | assignment #1 released	 | [[assignment #1](https://www.overleaf.com/read/vfcddpxrtpmg)] (due Feb 18) |
 | | Feb 11- | **morphology** | [[slides 1](https://www.overleaf.com/read/sjjtdtdxrjhn)] [slides 2] |
 |lecture |  | *morphological segmentation* | Suggested Readings:  <ul><li>[[Empirical Methods for Compound Splitting](http://www.aclweb.org/anthology/E03-1076)]</li>  <li>[[A Joint Model of Orthography and Morphological Segmentation](http://www.aclweb.org/anthology/N16-1080)]</li>  <li>[[Unsupervised Discovery of Morphemes](http://aclweb.org/anthology/W02-0603)]</li></ul> |
-|lecture |  | *morphological paradigms* | <ul><li>[[Supervised Learning of Complete Morphological Paradigms](https://www.aclweb.org/anthology/N13-1138)]</li></ul> |
+|lecture |  | *morphological paradigms* | Suggested Readings:  <ul><li>[[Supervised Learning of Complete Morphological Paradigms](https://www.aclweb.org/anthology/N13-1138)]</li></ul> |
 ||  | lab session | [[notes](https://www.overleaf.com/read/qtrdnthdmpdw)] [[ptb.train.txt](https://buffalo.box.com/s/zz6vbqfglrcv29oojmf3kf9e5llv06va)] |
 ||  | assignment #2 released	 | [assignment #2] |
 | |  | **morphosyntax** | [slides] |
+|lecture |  | *pos tagging* | Suggested Readings:  <ul><li></li></ul> |
 ||  | lab session | [notes] |
 ||  | assignment #3 released	 | [assignment #3] |
 ||  | mid-term	 |  |

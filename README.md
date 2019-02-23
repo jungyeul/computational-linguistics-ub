@@ -9,6 +9,7 @@ computational linguistics (LIN/CSE 467/567) at UB (Spring 2019), based on [*Intr
 1. cross-language
 1. language model
 
+See also [[Schedule](https://sites.google.com/site/lrecoursefall2018/schedule-and-syllabus)] from Fall 2018. 
 
 ## Schedule and Syllabus 
 |Event	| Date |	Description	 |Course Materials |

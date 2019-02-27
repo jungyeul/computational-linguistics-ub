@@ -2,7 +2,6 @@
 computational linguistics (LIN/CSE 467/567) at UB (Spring 2019), based on [*Introductory Computational Linguistics 
 -- A Practical Aspect*](https://buffalo.box.com/s/1t6hbq77c1yjabp1yo4qu1ovx4tiy2a6). See also [[Schedule](https://sites.google.com/site/lrecoursefall2018/schedule-and-syllabus)] from Fall 2018. 
 
-
 1. preprocessing
 1. morphology
 1. morphosyntax
@@ -55,3 +54,7 @@ computational linguistics (LIN/CSE 467/567) at UB (Spring 2019), based on [*Intr
 
 
 **introduction-to-computer-science-and-programming-in-python (MIT Open Courseware)** [[lecture videos](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/index.htm)]
+
+
+## office-hours
+Fridays 8:00-10:00AM

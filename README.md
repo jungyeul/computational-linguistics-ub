@@ -1,6 +1,9 @@
 # computational-linguistics-ub
 computational linguistics (LIN/CSE 467/567) at UB (Spring 2019), based on [*Introductory Computational Linguistics 
--- A Practical Aspect*](https://buffalo.box.com/s/1t6hbq77c1yjabp1yo4qu1ovx4tiy2a6). See also [[Schedule](https://sites.google.com/site/lrecoursefall2018/schedule-and-syllabus)] from Fall 2018. [Class slack, Spring 2019](https://join.slack.com/t/lincse467567/shared_invite/enQtNTYzMzA1MDgyNzQxLTJhY2I2ZDNjNzI5ZjIxMjY1MGY5ZjBlNWUxMDI5Y2QyOWUzNjMzNTU0Yzg4YWFmZGNkZGQ5ODkzYWM0YTY1NmQ)
+-- A Practical Aspect*](https://buffalo.box.com/s/1t6hbq77c1yjabp1yo4qu1ovx4tiy2a6). 
+
+* See [[Schedule](https://sites.google.com/site/lrecoursefall2018/schedule-and-syllabus)] from Fall 2018. 
+* See [Class slack, Spring 2019](https://join.slack.com/t/lincse467567/shared_invite/enQtNTYzMzA1MDgyNzQxLTJhY2I2ZDNjNzI5ZjIxMjY1MGY5ZjBlNWUxMDI5Y2QyOWUzNjMzNTU0Yzg4YWFmZGNkZGQ5ODkzYWM0YTY1NmQ)
 
 
 1. preprocessing

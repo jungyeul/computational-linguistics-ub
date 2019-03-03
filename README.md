@@ -35,7 +35,7 @@ computational linguistics (LIN/CSE 467/567) at UB (Spring 2019), based on [*Intr
 |lecture |  | *chunking,ner,srl* | Suggested Readings:  <ul><li>[Chunking]</li> <li>[NER]</li><li>[SRL]</li></ul> [slides] |
 ||  | lab session | [notes] |
 || Mar 15 | assignment #3 released	 | [assignment #3] (due March 22) |
-||  | mid-term	 |  |
+||  | mid-term	 | on March 11-15 |
 | |  | **syntax** | [slides] |
 ||  | lab session | [notes] |
 ||  | assignment #4 released	 | [assignment #4] |

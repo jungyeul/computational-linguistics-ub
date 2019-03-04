@@ -45,7 +45,7 @@ computational linguistics (LIN/CSE 467/567) at UB (Spring 2019), based on [*Intr
 | |  | **language model** | [slides] |
 ||  | lab session | [notes] |
 ||  | assignment #6 released	 | [assignment #6] |
-||  | final-term	 |  |
+||  | final-term	 | on May 6-10 |
 | ------ | ------ | ------ | ------  |
 | |  | **projects** | [[slides](https://www.overleaf.com/read/mmgtnhrxvfyq)] |
 | | Feb 1 | *chatbot* | p.2-3|

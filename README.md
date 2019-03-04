@@ -36,7 +36,7 @@ computational linguistics (LIN/CSE 467/567) at UB (Spring 2019), based on [*Intr
 ||  | lab session | [notes] |
 || Mar 11 | assignment #3 released	 | [assignment #3] (due March 25) |
 ||  | mid-term	 | on March 11-15 |
-| |  | **syntax** | [slides] |
+|| Mar 25 | **syntax** | [slides] |
 ||  | lab session | [notes] |
 ||  | assignment #4 released	 | [assignment #4] |
 | |  | **cross-language** | [slides] |

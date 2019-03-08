@@ -64,3 +64,7 @@ computational linguistics (LIN/CSE 467/567) at UB (Spring 2019), based on [*Intr
 
 ## office-hours
 Fridays 9:00-10:00AM
+
+## TA
+Ali Mohammad A Alshehri (alimoham _at_ buffalo.edu)
+

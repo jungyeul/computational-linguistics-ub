@@ -33,7 +33,7 @@ computational linguistics (LIN/CSE 467/567) at UB (Spring 2019), based on [*Intr
 || Feb 27 | **morphosyntax** |  |
 |lecture |  | *pos tagging* | Suggested Readings:  <ul><li>[[Part-of-Speech Tagging](https://web.stanford.edu/~jurafsky/slp3/8.pdf), Chap.8 in SLP (3rd ed.)]</li> <li>[[A Tutorial on HMMs](https://www.ece.ucsb.edu/Faculty/Rabiner/ece259/Reprints/tutorial%20on%20hmm%20and%20applications.pdf)]</li><li>[[TnT - Statistical Part-of-Speech Tagging](http://www.coli.uni-saarland.de/~thorsten/tnt/)]</li></ul> [[slides](https://www.overleaf.com/read/wdwxhszppdgx)]  |
 || Mar 8  | recitation	 | [[slides](https://www.overleaf.com/read/ygmgyrcqfzzz)]  |
-||  | mid-term	 | on March 11-15:<ul><li>on 11: preprocessing</li> <li>on 13: morphology</li><li>on 15: morphosyntax</li></ul> |
+||  | mid-term	 | on March 11-15:<ul><li>on 11: preprocessing</li> <li>on 13: morphology</li><li>on 15: morphosyntax</li></ul> all materials are allowed (including the laptop). |
 |lecture |  | *chunking,ner,srl* | Suggested Readings:  <ul><li>[Chunking]</li> <li>[NER]</li><li>[SRL]</li></ul> [slides] |
 ||  | lab session | [notes] |
 || | assignment #3 released	 | [assignment #3] |

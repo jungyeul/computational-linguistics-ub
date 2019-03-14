@@ -1,6 +1,3 @@
-# after receiving a complaint about massive cheating I cancel the mid-term on Monday March 11, 2019 and you will re-do the exam after the spring break. From now on, only one page cheat sheet (front and back) will be allowed for the exam. 
-
-
 # computational-linguistics-ub
 computational linguistics (LIN/CSE 467/567) at UB (Spring 2019), based on [*Introductory Computational Linguistics 
 -- A Practical Aspect*](https://buffalo.box.com/s/1t6hbq77c1yjabp1yo4qu1ovx4tiy2a6). 
@@ -38,7 +35,7 @@ computational linguistics (LIN/CSE 467/567) at UB (Spring 2019), based on [*Intr
 || Feb 27 | **morphosyntax** |  |
 |lecture |  | *pos tagging* | Suggested Readings:  <ul><li>[[Part-of-Speech Tagging](https://web.stanford.edu/~jurafsky/slp3/8.pdf), Chap.8 in SLP (3rd ed.)]</li> <li>[[A Tutorial on HMMs](https://www.ece.ucsb.edu/Faculty/Rabiner/ece259/Reprints/tutorial%20on%20hmm%20and%20applications.pdf)]</li><li>[[TnT - Statistical Part-of-Speech Tagging](http://www.coli.uni-saarland.de/~thorsten/tnt/)]</li></ul> [[slides](https://www.overleaf.com/read/wdwxhszppdgx)]  |
 || Mar 8  | recitation	 | [[slides](https://www.overleaf.com/read/ygmgyrcqfzzz)]  |
-||  | mid-term	 | on March 11-15:<ul><li>on 13: morphology</li><li>on 15: morphosyntax</li><li>on 25: preprocessing (redo)</li> </ul> **ONLY one page cheat sheet is allowed** |
+||  | mid-term	 | on March 11-15:<ul><li>on 13: morphology</li><li>on 15: morphosyntax</li><li>on 25: preprocessing (redo)</li> </ul> **ONLY one page cheat sheet is allowed** [[notes](https://www.overleaf.com/read/xccfyqtzrpkq)]  |
 |lecture |  | *chunking,ner,srl* | Suggested Readings:  <ul><li>[Chunking]</li> <li>[NER]</li><li>[SRL]</li></ul> [slides] |
 ||  | lab session | [notes] |
 || | assignment #3 released	 | [assignment #3] |

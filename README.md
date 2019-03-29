@@ -37,7 +37,7 @@ computational linguistics (LIN/CSE 467/567) at UB (Spring 2019), based on [*Intr
 || Mar 8  | recitation	 | [[slides](https://www.overleaf.com/read/ygmgyrcqfzzz)]  |
 ||  | mid-term	 | on March 11-15:<ul><li>on 13: morphology</li><li>on 15: morphosyntax</li><li>on 25: preprocessing (redo)</li> </ul> **ONLY one page cheat sheet is allowed** [[notes](https://www.overleaf.com/read/xccfyqtzrpkq)]  |
 |lecture |  | *chunking,ner,srl* | Suggested Readings:  <ul><li>[Chunking]</li> <li>[NER]</li><li>[SRL]</li></ul> [slides] |
-||  | lab session | [[notes](https://www.overleaf.com/read/qtrdnthdmpdw)] [ner data(https://buffalo.box.com/s/w3crjkoao09rk5f6hi46y5fpdk1bji8t)] [crf template(https://buffalo.box.com/s/qggxvcbwjnwvj0f9z2l99qmsadkhiwg1)] |
+||  | lab session | [[notes](https://www.overleaf.com/read/qtrdnthdmpdw)] [[ner data(https://buffalo.box.com/s/w3crjkoao09rk5f6hi46y5fpdk1bji8t)]] [[crf template(https://buffalo.box.com/s/qggxvcbwjnwvj0f9z2l99qmsadkhiwg1)]] |
 || | assignment #3 released	 | [assignment #3] |
 || Mar 25 | **syntax** | [slides] |
 ||  | lab session | [notes] |

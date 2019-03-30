@@ -70,3 +70,7 @@ Fridays 9:00-10:00AM
 ## TA
 Ali Mohammad A Alshehri (alimoham _at_ buffalo.edu)
 
+## Projects
+1. Meha&Sarah: OCR Text Correction
+1. Anthony: Similar Language Translation
+1. Abhav&Ameya&Omkar: Hindi-English Code Switching

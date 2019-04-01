@@ -36,7 +36,7 @@ computational linguistics (LIN/CSE 467/567) at UB (Spring 2019), based on [*Intr
 |lecture |  | *pos tagging* | Suggested Readings:  <ul><li>[[Part-of-Speech Tagging](https://web.stanford.edu/~jurafsky/slp3/8.pdf), Chap.8 in SLP (3rd ed.)]</li> <li>[[A Tutorial on HMMs](https://www.ece.ucsb.edu/Faculty/Rabiner/ece259/Reprints/tutorial%20on%20hmm%20and%20applications.pdf)]</li><li>[[TnT - Statistical Part-of-Speech Tagging](http://www.coli.uni-saarland.de/~thorsten/tnt/)]</li></ul> [[slides](https://www.overleaf.com/read/wdwxhszppdgx)]  |
 || Mar 8  | recitation	 | [[slides](https://www.overleaf.com/read/ygmgyrcqfzzz)]  |
 ||  | mid-term	 | on March 11-15:<ul><li>on 13: morphology</li><li>on 15: morphosyntax</li><li>on 25: preprocessing (redo)</li> </ul> **ONLY one page cheat sheet is allowed** [[notes](https://www.overleaf.com/read/xccfyqtzrpkq)]  |
-|lecture |  | *chunking,ner,srl* | Suggested Readings:  <ul><li>[Chunking]</li> <li>[NER]</li><li>[SRL]</li></ul> [slides] |
+|lecture |  | *chunking,ner,srl* | Suggested Readings:  <ul><li>[[Chunking](https://www.clips.uantwerpen.be/conll2000/chunking/), CoNLL-2000 Shared Task]</li> <li>[[Language-Independent Named Entity Recognition](https://www.clips.uantwerpen.be/conll2003/ner/), CoNLL-2003 Shared Task]</li><li>[[Semantic Role Labeling](http://www.lsi.upc.edu/~srlconll/), CoNLL-2004 and CoNLL-2005 Shared Tasks]</li></ul> [slides] |
 ||  | lab session | [[notes](https://www.overleaf.com/read/qtrdnthdmpdw)] [[ner data](https://buffalo.box.com/s/w3crjkoao09rk5f6hi46y5fpdk1bji8t)] [[crf template](https://buffalo.box.com/s/qggxvcbwjnwvj0f9z2l99qmsadkhiwg1)] |
 || | assignment #3 released	 | [assignment #3] |
 || Mar 25 | **syntax** | [slides] |

@@ -38,7 +38,7 @@ computational linguistics (LIN/CSE 467/567) at UB (Spring 2019), based on [*Intr
 ||  | mid-term	 | on March 11-15:<ul><li>on 13: morphology</li><li>on 15: morphosyntax</li><li>on 25: preprocessing (redo)</li> </ul> **ONLY one page cheat sheet is allowed** [[notes](https://www.overleaf.com/read/xccfyqtzrpkq)]  |
 |lecture |  | *chunking,ner,srl* | Suggested Readings:  <ul><li>[[Chunking](https://www.clips.uantwerpen.be/conll2000/chunking/), CoNLL-2000 Shared Task]</li> <li>[[Language-Independent Named Entity Recognition](https://www.clips.uantwerpen.be/conll2003/ner/), CoNLL-2003 Shared Task]</li><li>[[Semantic Role Labeling](http://www.lsi.upc.edu/~srlconll/), CoNLL-2004 and CoNLL-2005 Shared Tasks]</li></ul> [[slides](https://www.overleaf.com/read/tzqhytkmsvtw)] |
 ||  | lab session | [[notes](https://www.overleaf.com/read/qtrdnthdmpdw)] [[ner data](https://buffalo.box.com/s/w3crjkoao09rk5f6hi46y5fpdk1bji8t)] [[crf template](https://buffalo.box.com/s/qggxvcbwjnwvj0f9z2l99qmsadkhiwg1)] |
-|| | assignment #3 released	 | [assignment #3] |
+|| | assignment #3 released	 | [[assignment #3](https://www.overleaf.com/read/wdfrxwmchfnv)] |
 || Mar 25 | **syntax** | [slides] |
 ||  | lab session | [notes] |
 ||  | assignment #4 released	 | [assignment #4] |

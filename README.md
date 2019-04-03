@@ -39,8 +39,10 @@ computational linguistics (LIN/CSE 467/567) at UB (Spring 2019), based on [*Intr
 |lecture |  | *chunking,ner,srl* | Suggested Readings:  <ul><li>[[Chunking](https://www.clips.uantwerpen.be/conll2000/chunking/), CoNLL-2000 Shared Task]</li> <li>[[Language-Independent Named Entity Recognition](https://www.clips.uantwerpen.be/conll2003/ner/), CoNLL-2003 Shared Task]</li><li>[[Semantic Role Labeling](http://www.lsi.upc.edu/~srlconll/), CoNLL-2004 and CoNLL-2005 Shared Tasks]</li></ul> [[slides](https://www.overleaf.com/read/tzqhytkmsvtw)] |
 ||  | lab session | [[notes](https://www.overleaf.com/read/qtrdnthdmpdw)] [[ner data](https://buffalo.box.com/s/w3crjkoao09rk5f6hi46y5fpdk1bji8t)] [[crf template](https://buffalo.box.com/s/qggxvcbwjnwvj0f9z2l99qmsadkhiwg1)] |
 || | assignment #3 released	 | [[assignment #3](https://www.overleaf.com/read/wdfrxwmchfnv)] |
-|| Apr 3 | **syntax** |  |
-||  |  | <ul><li>[Chap. 11, [Syntactic Parsing](https://web.stanford.edu/~jurafsky/slp3/11.pdf)], [[slides](https://www.overleaf.com/read/vmczhbsgxrys)]</li> </ul> |
+|| Apr 3 | **syntax** | by *Speech and Language Processing* (3rd ed. draft) by Dan Jurafsky and James H. Martin |
+|lecture|  | *syntactic parsing*  | [[Chap. 11](https://web.stanford.edu/~jurafsky/slp3/11.pdf)], [[slides](https://www.overleaf.com/read/vmczhbsgxrys)] |
+|lecture|  | *statistical parsing*  | [[Chap. 11](https://web.stanford.edu/~jurafsky/slp3/12.pdf)], [[slides]] |
+|lecture|  | *dependency parsing*  | [[Chap. 11](https://web.stanford.edu/~jurafsky/slp3/13.pdf)], [[slides]] |
 ||  | lab session | [notes] |
 ||  | assignment #4 released	 | [assignment #4] |
 | |  | **cross-language** | [slides] |

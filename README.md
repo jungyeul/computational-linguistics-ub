@@ -43,7 +43,7 @@ computational linguistics (LIN/CSE 467/567) at UB (Spring 2019), based on [*Intr
 |lecture|  | *syntactic parsing*  | [[Chap. 11](https://web.stanford.edu/~jurafsky/slp3/11.pdf)], [[slides](https://www.overleaf.com/read/vmczhbsgxrys)] |
 |lecture|  | *statistical parsing*  | [[Chap. 12](https://web.stanford.edu/~jurafsky/slp3/12.pdf)], [[slides](https://www.overleaf.com/read/htxfvpqqbsdg)] |
 |lecture|  | *dependency parsing*  | [[Chap. 13](https://web.stanford.edu/~jurafsky/slp3/13.pdf)], [[slides](https://www.overleaf.com/read/hvxxmrgqrhmp)] |
-||  | lab session | [notes] |
+||  | lab session | [[notes](https://www.overleaf.com/read/qtrdnthdmpdw)] |
 ||  | assignment #4 released	 | [assignment #4] |
 | |  | **cross-language** | [slides] |
 ||  | lab session | [notes] |

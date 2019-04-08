@@ -41,8 +41,8 @@ computational linguistics (LIN/CSE 467/567) at UB (Spring 2019), based on [*Intr
 || | assignment #3 released	 | [[assignment #3](https://www.overleaf.com/read/wdfrxwmchfnv)] |
 || Apr 3 | **syntax** | by *Speech and Language Processing* (3rd ed. draft) by Dan Jurafsky and James H. Martin |
 |lecture|  | *syntactic parsing*  | [[Chap. 11](https://web.stanford.edu/~jurafsky/slp3/11.pdf)], [[slides](https://www.overleaf.com/read/vmczhbsgxrys)] |
-|lecture|  | *statistical parsing*  | [[Chap. 12](https://web.stanford.edu/~jurafsky/slp3/12.pdf)], [[slides]] |
-|lecture|  | *dependency parsing*  | [[Chap. 13](https://web.stanford.edu/~jurafsky/slp3/13.pdf)], [[slides]] |
+|lecture|  | *statistical parsing*  | [[Chap. 12](https://web.stanford.edu/~jurafsky/slp3/12.pdf)], [[slides](https://www.overleaf.com/read/htxfvpqqbsdg)] |
+|lecture|  | *dependency parsing*  | [[Chap. 13](https://web.stanford.edu/~jurafsky/slp3/13.pdf)], [[slides](https://www.overleaf.com/read/hvxxmrgqrhmp)] |
 ||  | lab session | [notes] |
 ||  | assignment #4 released	 | [assignment #4] |
 | |  | **cross-language** | [slides] |
@@ -53,14 +53,6 @@ computational linguistics (LIN/CSE 467/567) at UB (Spring 2019), based on [*Intr
 ||  | assignment #6 released	 | [assignment #6] |
 ||  | final-term	 | on May 6-10 |
 | ------ | ------ | ------ | ------  |
-| |  | **projects** | [[slides](https://www.overleaf.com/read/mmgtnhrxvfyq)] |
-| | Feb 1 | *chatbot* | p.2-3|
-| | Feb 11 | *GEC* | p.4|
-| | Feb 15 | *SLT@WMT* | p.5|
-| | Feb 15 | *Gender Bias for NLP* | p.6|
-| | Feb 18 | *DMT@VarDial* | p.8|
-| | Feb 18 | *Hindi-English Code-Switching* | p.9|
-| | Feb 18 | *OCR Text Correction* | p.10|
 
 
 
@@ -72,12 +64,3 @@ Fridays 9:00-10:00AM
 
 ## TA
 Ali Mohammad A Alshehri (alimoham _at_ buffalo.edu)
-
-## Projects
-1. Abhav&Ameya&Omkar: Hindi-English Code Switching
-1. Anthony: Similar Language Translation
-1. Apurva&Krishna: Grammatical Error Correction (with cse/lin667)
-1. Meha&Sarah: OCR Text Correction
-
-
-

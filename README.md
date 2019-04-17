@@ -67,6 +67,6 @@ Fridays 9:00-10:00AM
 Ali Mohammad A Alshehri (alimoham _at_ buffalo.edu)
 
 ## Student Volunteers for the extra assignment
-* Meha Rajeev Raote <meharaje _AT_ buffalo.edu> 
-* Pranjal Ashok Jain <pjain5 _AT_ buffalo.edu> 
-* Alexander Pena <apena4 _AT_ buffalo.edu>
+* Meha Rajeev Raote meharaje _at_ buffalo.edu 
+* Pranjal Ashok Jain pjain5 _at_ buffalo.edu 
+* Alexander Pena apena4 _at_ buffalo.edu

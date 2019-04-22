@@ -48,10 +48,8 @@ computational linguistics (LIN/CSE 467/567) at UB (Spring 2019), based on [*Intr
 || Apr 15 | assignment #extra released	 | [[assignment #extra](https://www.overleaf.com/read/ncpdgwbykjmk)] for extra points (due by May 3) |
 || Apr 19 | assignment #5 released	 | [[assignment #5](https://www.overleaf.com/read/zjftsygpqnps)] (due by Apr 29) |
 | | Apr 23  | **cross-language** |  |
-|lecture|  | *document alignment*  | [slides]  |
-|lecture|  | *word alignment*  | [slides] |
-|lecture|  | *machine translation*  | [slides] |
-||  | lab session | [notes] |
+|lecture|  | *document/word alignment, mt*  | Suggested Readings:  <ul><li></li></ul> [[slides](https://www.overleaf.com/read/njtthzffdwnt)]  |
+||  | lab session | [[notes](https://www.overleaf.com/read/qtrdnthdmpdw)] |
 | |  | **language model** | [slides] |
 ||  | lab session | [notes] |
 || Apr 29 | assignment #6 released	 | [assignment #6] (due by May 10) |

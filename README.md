@@ -45,9 +45,12 @@ computational linguistics (LIN/CSE 467/567) at UB (Spring 2019), based on [*Intr
 |lecture|  | *dependency parsing*  | [[Chap. 13](https://web.stanford.edu/~jurafsky/slp3/13.pdf)], [[slides](https://www.overleaf.com/read/hvxxmrgqrhmp)] |
 ||  | lab session | [[notes](https://www.overleaf.com/read/qtrdnthdmpdw)] |
 || Apr 10 | assignment #4 released	 | [[assignment #4](https://www.overleaf.com/read/mbwfnkqtympc)] (due by Apr 22) |
-|| Apr 15 | assignment #extra released	 | [[assignment #extra](https://www.overleaf.com/read/ncpdgwbykjmk)] for extra points (due by April 29) |
+|| Apr 15 | assignment #extra released	 | [[assignment #extra](https://www.overleaf.com/read/ncpdgwbykjmk)] for extra points (due by May 3) |
 || Apr 19 | assignment #5 released	 | [[assignment #5](https://www.overleaf.com/read/zjftsygpqnps)] (due by Apr 29) |
-| |  | **cross-language** | [slides] |
+| | Apr 23  | **cross-language** |  |
+|lecture|  | *document alignment*  | [slides]  |
+|lecture|  | *word alignment*  | [slides] |
+|lecture|  | *machine translation*  | [slides] |
 ||  | lab session | [notes] |
 | |  | **language model** | [slides] |
 ||  | lab session | [notes] |

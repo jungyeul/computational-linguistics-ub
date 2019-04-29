@@ -52,7 +52,7 @@ computational linguistics (LIN/CSE 467/567) at UB (Spring 2019), based on [*Intr
 ||  | lab session | [[notes](https://www.overleaf.com/read/qtrdnthdmpdw)] |
 | |  | **language model** | [slides] |
 ||  | lab session | [notes] |
-|| Apr 29 | assignment #6 released	 | [assignment #6] (due by May 10) |
+|| Apr 29 | assignment #6 released	 | [[assignment #6](https://www.overleaf.com/read/cxgptbvfbmyf)] (due by May 10) |
 ||  | 2nd exams	 | on May 6-10:<ul><li>on 6: Syntax 1</li><li>on 8: Syntax 2</li><li>on 10: MT&LM</li> </ul> **ONLY one page cheat sheet is allowed** [[notes](https://www.overleaf.com/read/xccfyqtzrpkq)]   |
 
 

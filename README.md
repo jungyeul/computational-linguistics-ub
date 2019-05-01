@@ -48,17 +48,26 @@ computational linguistics (LIN/CSE 467/567) at UB (Spring 2019), based on [*Intr
 || Apr 15 | assignment #extra released	 | [[assignment #extra](https://www.overleaf.com/read/ncpdgwbykjmk)] for extra points (due by May 3) |
 || Apr 19 | assignment #5 released	 | [[assignment #5](https://www.overleaf.com/read/zjftsygpqnps)] (due by May 1, extended) |
 | | Apr 23  | **cross-language** |  |
-|lecture|  | *document/word alignment, mt*  | Suggested Readings:  <ul><li></li></ul> [[slides](https://www.overleaf.com/read/njtthzffdwnt)]  |
+|lecture|  | *document/word alignment, mt*  | Suggested Readings:  <li> [<a href="http://www.aclweb.org/anthology/J93-1004">Sentence aligment</a>,] Gale and Church</li><li> [<a href="http://www.aclweb.org/anthology/J93-2003">Word alignment</a>, Brown et la., IBM models] </li><li> [<a href="http://www.statmt.org/book/">SMT book</a>, Koehn] </li> [[slides](https://www.overleaf.com/read/njtthzffdwnt)]  |
 ||  | lab session | [[notes](https://www.overleaf.com/read/qtrdnthdmpdw)] |
 | |  | **language model** | [slides] |
 ||  | lab session | [notes] |
 || Apr 29 | assignment #6 released	 | [[assignment #6](https://www.overleaf.com/read/cxgptbvfbmyf)] (due by May 10) |
-||  | 2nd exams	 | on May 6-10:<ul><li>on 6: Syntax 1</li><li>on 8: Syntax 2</li><li>on 10: MT&LM</li> </ul> **ONLY one page cheat sheet is allowed** [[notes](https://www.overleaf.com/read/xccfyqtzrpkq)]   |
+||  | 2nd exams	 | on May 6-10:<ul><li>on 6: Syntax 1</li><li>on 8: Syntax 2</li> </ul> **ONLY one page cheat sheet is allowed** [[notes](https://www.overleaf.com/read/xccfyqtzrpkq)]   |
 
 
 
 
 **introduction-to-computer-science-and-programming-in-python (MIT Open Courseware)** [[lecture videos](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/index.htm)]
+
+
+**[Cross-Framework Meaning Representation Parsing at CoNLL 2019](http://mrp.nlpl.eu)**
+July 29, 2019, Official End-to-End Evaluation Results
+* DELPH-IN MRS Bi-Lexical Dependencies (Ivanova et al., 2012)
+* Prague Semantic Dependencies (Hajič et al., 2012)
+* Elementary Dependency Structures (Oepen & Lønning, 2006)
+* Universal Conceptual Cognitive Annotation (Abend & Rappoport, 2013)
+* Abstract Meaning Representation (Banarescu et al., 2013)
 
 
 ## office-hours

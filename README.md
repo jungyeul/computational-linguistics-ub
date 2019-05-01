@@ -51,6 +51,7 @@ computational linguistics (LIN/CSE 467/567) at UB (Spring 2019), based on [*Intr
 |lecture|  | *document/word alignment, mt*  | Suggested Readings:  <li> [<a href="http://www.aclweb.org/anthology/J93-1004">Sentence aligment</a>,] Gale and Church</li><li> [<a href="http://www.aclweb.org/anthology/J93-2003">Word alignment</a>, Brown et la., IBM models] </li><li> [<a href="http://www.statmt.org/book/">SMT book</a>, Koehn] </li> [[slides](https://www.overleaf.com/read/njtthzffdwnt)]  |
 ||  | lab session | [[notes](https://www.overleaf.com/read/qtrdnthdmpdw)] |
 || Apr 29 | assignment #6 released	 | [[assignment #6](https://www.overleaf.com/read/cxgptbvfbmyf)] (due by May 10) |
+|| May 3 | recitation	 | [slides] |
 ||  | 2nd exams	 | on May 6-10:<ul><li>on 6: Syntax 1</li><li>on 8: Syntax 2</li> </ul> **ONLY one page cheat sheet is allowed** [[notes](https://www.overleaf.com/read/xccfyqtzrpkq)]   |
 
 

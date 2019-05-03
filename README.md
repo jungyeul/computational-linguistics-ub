@@ -51,22 +51,8 @@ computational linguistics (LIN/CSE 467/567) at UB (Spring 2019), based on [*Intr
 |lecture|  | *document/word alignment, mt*  | Suggested Readings:  <li> [<a href="http://www.aclweb.org/anthology/J93-1004">Sentence aligment</a>,] Gale and Church</li><li> [<a href="http://www.aclweb.org/anthology/J93-2003">Word alignment</a>, Brown et la., IBM models] </li><li> [<a href="http://www.statmt.org/book/">SMT book</a>, Koehn] </li> [[slides](https://www.overleaf.com/read/njtthzffdwnt)]  |
 ||  | lab session | [[notes](https://www.overleaf.com/read/qtrdnthdmpdw)] |
 || Apr 29 | assignment #6 released	 | [[assignment #6](https://www.overleaf.com/read/cxgptbvfbmyf)] (due by May 10) |
-|| May 3 | recitation	 | [slides] |
+|| May 3 | recitation	 | [[slides](https://www.overleaf.com/read/hdydtfvwnzhf)] |
 ||  | 2nd exams	 | on May 6-10:<ul><li>on 6: Syntax 1</li><li>on 8: Syntax 2</li> </ul> **ONLY one page cheat sheet is allowed** [[notes](https://www.overleaf.com/read/xccfyqtzrpkq)]   |
-
-
-
-
-**introduction-to-computer-science-and-programming-in-python (MIT Open Courseware)** [[lecture videos](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/index.htm)]
-
-
-**[Cross-Framework Meaning Representation Parsing at CoNLL 2019](http://mrp.nlpl.eu)**
-July 29, 2019, Official End-to-End Evaluation Results
-* DELPH-IN MRS Bi-Lexical Dependencies (Ivanova et al., 2012)
-* Prague Semantic Dependencies (Hajič et al., 2012)
-* Elementary Dependency Structures (Oepen & Lønning, 2006)
-* Universal Conceptual Cognitive Annotation (Abend & Rappoport, 2013)
-* Abstract Meaning Representation (Banarescu et al., 2013)
 
 
 ## office-hours
@@ -74,8 +60,3 @@ Fridays 9:00-10:00AM
 
 ## TA
 Ali Mohammad A Alshehri (alimoham _at_ buffalo.edu)
-
-## Student Volunteers for the extra assignment
-* Meha Rajeev Raote (meharaje _at_ buffalo.edu)
-* Pranjal Ashok Jain (pjain5 _at_ buffalo.edu)
-* Alexander Pena (apena4 _at_ buffalo.edu)
